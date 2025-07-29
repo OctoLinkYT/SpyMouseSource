@@ -1,0 +1,108 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_31 (Sun Microsystems Inc.)
+
+Name: assets/downloadcontent/pl.txt
+SHA1-Digest: k2Uuw5aL2ZNaZUPtz+1bgRF5VQ0=
+
+Name: assets/downloadcontent/zh_TW.txt
+SHA1-Digest: 8SDnw15thDek9grrG4ggrA/PNAs=
+
+Name: assets/downloadcontent/pt_BR.txt
+SHA1-Digest: US43BFEOEWFNuwnoCTU2NJeUwgw=
+
+Name: assets/downloadcontent/ko.txt
+SHA1-Digest: lq07eL3YDqxxsl/qgZdGq9JP1b8=
+
+Name: assets/downloadcontent/it.txt
+SHA1-Digest: feVYr4kj594089/hwn/tOLvsXLs=
+
+Name: assets/multilang/fr.txt
+SHA1-Digest: qsiBniKbX9DIbYHRAaHzTZMFdS4=
+
+Name: assets/multilang/pl.txt
+SHA1-Digest: AXz8dfl9BTKLvgmziKde3L7pZ2w=
+
+Name: assets/downloadcontent/ja.txt
+SHA1-Digest: 3Umi9MktQTh559PwZAVPqoSmwZE=
+
+Name: resources.arsc
+SHA1-Digest: mErClBzrZ/kxevgJ2VJ1WNwru+Y=
+
+Name: assets/downloadcontent/ru.txt
+SHA1-Digest: 0S/p9hP9qqKFR3MSnPjAOOBkZBA=
+
+Name: assets/downloadcontent/zh_CN.txt
+SHA1-Digest: LBsYcJ1tqvVkhF2wzMByWSKbhD0=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: bSihMecc0eBzV7EdIZh2AQ63Re8=
+
+Name: AndroidManifest.xml
+SHA1-Digest: pLWHDlYKiqzrdU9MM3HnXrBRpIE=
+
+Name: assets/multilang/en.txt
+SHA1-Digest: N7EOEv2hmskQ0jD7dzCzV5QPmDE=
+
+Name: assets/multilang/de.txt
+SHA1-Digest: tp8/p/JTox8xyDLqg5owv+8xSyM=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: Xc4VVWtZoV3Ih8Xl5Ap+jdkVynk=
+
+Name: assets/multilang/pt_BR.txt
+SHA1-Digest: d9X6MlvfaIiG5OZD8UgwQuHEcrE=
+
+Name: assets/downloadcontent/en.txt
+SHA1-Digest: kqDMfmbhLOaFMsAY3WfoXwyt1lI=
+
+Name: assets/downloadcontent/config.properties
+SHA1-Digest: VkJ4o1kuXduY95/Qr4m+Z4WE1bQ=
+
+Name: assets/downloadcontent/es.txt
+SHA1-Digest: FRn0mjz118YM4KaWiubm6QSM6gw=
+
+Name: assets/GameApplication.ini
+SHA1-Digest: 9Ff/GeO/qYWrVW7gyFA/UE1jzkA=
+
+Name: assets/EAMToolManager.ini
+SHA1-Digest: GCtypKI+ph+P7lXhD/qGKxAK9uM=
+
+Name: assets/downloadcontent/de.txt
+SHA1-Digest: wAf3yoH0Woag5BzP4SrDAwyGhKg=
+
+Name: lib/armeabi/libSpyMouse.so
+SHA1-Digest: gquj1zW/lx535/edqdCmaTgq+IY=
+
+Name: assets/downloadcontent/overrides.xml
+SHA1-Digest: ZqopKcJAA+BCCOcodGBrzoYr7Jw=
+
+Name: assets/multilang/es_co.txt
+SHA1-Digest: PfbCcEjwZ+hD50YYX0pgXnJblyo=
+
+Name: assets/multilang/it.txt
+SHA1-Digest: rOVROeBzjHYsZK2xAnB0/WQIbI0=
+
+Name: classes.dex
+SHA1-Digest: pKiLHIsuCyEqdsJHc4+Qc8kFxMo=
+
+Name: assets/downloadcontent/es_co.txt
+SHA1-Digest: E+Y4MUax5DXPurJlyyOtdjy96cc=
+
+Name: assets/multilang/es.txt
+SHA1-Digest: gZ9OwTpbuNO3Wotc/ioxdONf95w=
+
+Name: assets/downloadcontent/fr.txt
+SHA1-Digest: yv8+gf4fxtCXOzJnirsNOAYdWzw=
+
+Name: assets/multilang/ru.txt
+SHA1-Digest: vg9d4aYJ4+P2kjT+rGQYja3lgU8=
+
+Name: res/drawable/icon.png
+SHA1-Digest: hF3XW3a0JWubASlmnViGZscZrEQ=
+
+Name: assets/EAMCore.ini
+SHA1-Digest: x/+ukfbdBdW3Fv9EFmX8f888AQg=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: hF3XW3a0JWubASlmnViGZscZrEQ=
+

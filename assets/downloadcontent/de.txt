@@ -1,0 +1,33 @@
+HERUNTERLADEN UND SPIELEN
+Für %% werden ca. %% MB an zusätzlichen Inhalten benötigt. Wähle "Herunterladen", um zu beginnen. Download-Zeiten sind von Netzwerk und Standort abhängig. Wir empfehlen eine Wi-Fi-Verbindung.
+OK
+NICHT GENÜGEND SPEICHERPLATZ
+Für dieses Spiel werden %% MB benötigt. Lege eine SD Memory Card ein oder mach Speicherplatz darauf frei, um mit dem Herunterladen zu beginnen.
+HERUNTERLADEN
+BEENDEN
+KEINE WI-FI-VERBINDUNG VORHANDEN
+Wir empfehlen eine Wi-Fi-Verbindung, da dadurch das Herunterladen schneller geht. Wähle "Ja", um eine Wi-Fi-Verbindung herzustellen und fortzufahren.
+3G nicht verfügbar
+3G-Netzwerk zurzeit nicht verfügbar. Wir empfehlen eine Wi-Fi-Verbindung, da dadurch das Herunterladen schneller geht. Wähle "Ja", um eine Wi-Fi-Verbindung herzustellen und fortzufahren, oder versuche es erneut, wenn der Dienst wieder verfügbar ist.
+DOWNLOAD FEHLGESCHLAGEN
+Der Fortschritt wurde gespeichert. Verbinde dich erneut und starte die App neu, um mit dem Herunterladen fortzufahren.
+DOWNLOAD WURDE UNTERBROCHEN
+WIEDERHOLEN
+Versuche es erneut in [x, x-1...] Sekunden.
+WI-FI
+JA
+NEIN
+DOWNLOAD
+Download läuft...
+UPDATES
+Sucht nach Updates
+3G-VERBINDUNG
+Möchtest du wirklich über 3G herunterladen? Das Herunterladen kann bis zu zwei Stunden dauern, und es können Kosten entstehen.
+UPDATES VERFÜGBAR
+%% erfordert eine Aktualisierung mit %% MB. Wähle die Option "Herunterladen", um die Aktualisierung zu starten.
+NICHT UNTERSTÜTZTES GERÄT
+"Beim Herunterladen des Spiels ist ein Fehler aufgetreten. Wähle auf www.eamobile.com/countrygate dein Land und klicke auf den Link zum Kundendienst."
+RÜCKSETZ-Taste drücken, um WI-FI zu konfigurieren.
+RÜCKSETZ-Taste drücken, um 3G zu benutzen.
+Wähle die Option "3G-VERBINDUNG", um 3G zu benutzen.
+Debug Test Title

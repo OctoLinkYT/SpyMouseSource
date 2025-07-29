@@ -1,0 +1,3 @@
+ANDROID LICENSE
+Esta aplicação não está autorizada para utilização no seu dispositivo Android.
+OK

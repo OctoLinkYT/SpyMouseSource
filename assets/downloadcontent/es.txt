@@ -1,0 +1,33 @@
+DESCARGA Y JUEGA
+%% requiere aproximadamente %% MB de contenido adicional para ejecutarse. Selecciona "Descargar" para empezar.  Los tiempos de descarga pueden variar dependiendo de la red y la ubicación. Se recomienda una conexión WiFi.
+ACEPTAR
+MEMORIA INSUFICIENTE
+Se necesitan %% MB para tu juego. Inserta o libera espacio en tu tarjeta de memoria SD para comenzar la descarga.
+DESCARGAR
+SALIR
+NO SE HA DETECTADO NINGUNA CONEXIÓN WIFI
+Se recomienda usar WIFI para que la descarga sea más rápida. Selecciona "sí" para conectar WIFI y continuar.
+3G no disponible
+Red 3G no disponible. Se recomienda WIFI para una descarga más rápida. Elige "Sí" para configurar WIFI y continuar o vuelve a intentarlo cuando el servicio esté disponible
+ERROR EN LA DESCARGA
+Se han guardado los progresos. Vuelve a conectar y vuelve a ejecutar la aplicación para continuar la descarga.
+DESCARGA INTERRUMPIDA
+REINTENTAR
+Reintento en [x, x-1...] segundos.
+WIFI
+SÍ
+NO
+DESCARGANDO
+Descarga en progreso...
+ACTUALIZACIONES
+Comprobando actualizaciones.
+CONEXIÓN 3G
+¿Seguro que quieres iniciar la descarga mediante 3G? Las descargas pueden llegar a las 2 horas y puede aplicarse la tarifa de tu proveedor.
+ACTUALIZACIONES DISPONIBLES
+%% requiere una actualización de %% MB.  Selecciona "Descargar" para empezar.
+DISPOSITIVO NO COMPATIBLE
+“Se produjo un error al descargar el juego.  Visita www.eamobile.com/countrygate para elegir tu país y haz clic en el vínculo de asistencia al cliente”.
+Pulsa la tecla ATRÁS para configurar la Wi-Fi.
+Pulsa la tecla ATRÁS para usar la 3G.
+Selecciona "CONEXIÓN 3G" para usar la 3G.
+Debug Test Title

@@ -1,0 +1,33 @@
+TÉLÉCHARGER ET JOUER
+%% nécessite environ %% Mo de contenu supplémentaire pour s'exécuter. Sélectionnez "Télécharger" pour commencer. La durée de téléchargement peut varier en fonction du réseau et de l'emplacement. Une connexion Wi-Fi est recommandée.
+OK
+MÉMOIRE INSUFFISANTE
+%% Mo nécessaire(s) pour votre jeu. Insérez ou libérez de l'espace sur votre carte mémoire SD pour démarrer le téléchargement.
+TÉLÉCHARGER
+QUITTER
+CONNEXION WI-FI NON DISPONIBLE
+Une connexion Wi-Fi est fortement recommandée pour un téléchargement plus rapide. Choisissez « Oui » pour configurer l'option Wi-Fi, puis continuez.
+3G non disponible.
+Le réseau 3G n'est actuellement pas disponible. Une connexion Wi-Fi est fortement recommandée pour un téléchargement plus rapide. Choisissez « Oui » pour configurer l'option Wi-Fi et continuer ou essayez à nouveau lorsque le service est disponible.
+ÉCHEC DU TÉLÉCHARGEMENT
+La progression a été sauvegardée. Reconnectez-vous, puis redémarrez l'application pour poursuivre le téléchargement.
+TÉLÉCHARGEMENT INTERROMPU
+RÉESSAYER
+Réessayez dans [x, x-1...] secondes.
+WIFI
+OUI
+NON
+TÉLÉCHARGEMENT
+Téléchargement en cours...
+MISES À JOUR
+Vérification des mises à jour.
+CONNEXION 3G
+Voulez-vous vraiment télécharger en utilisant une connexion 3G ? Les téléchargements peuvent durer jusqu'à 2 heures, et votre opérateur peut vous faire payer des coûts de connexion supplémentaires.
+MISES À JOUR DISPONIBLES
+%% nécessite une mise à jour de %% Mo.  Cliquez sur "Télécharger" pour commencer.
+DISPOSITIF NON PRIS EN CHARGE
+"Une erreur s'est produite au cours du téléchargement du jeu. Rendez-vous sur www.eamobile.com/countrygate pour choisir votre pays et cliquez sur le lien d'assistance clientèle."
+Appuyez sur la touche RETOUR pour configurer le mode Wi-Fi.
+Appuyez sur la touche RETOUR pour utiliser la fonction 3G.
+Cliquez sur « CONNEXION 3G » pour utiliser la fonction 3G.
+Debug Test Title

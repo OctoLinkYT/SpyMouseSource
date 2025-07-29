@@ -1,0 +1,33 @@
+POBIERZ I GRAJ
+Do uruchomienia %% wymaga dodatkowo okolo %% MB dodatkowych danych. Wybierz polecenie „Pobierz”, aby rozpoczac operacje.  Czas pobierania moze sie zmieniac w zaleznosci od sieci i lokalizacji. Zalecane jest polaczenie WiFi.
+OK
+NIEWYSTARCZAJACA PAMIEC 
+Twoja gra wymaga %% MB. Wprowadz lub zwolnij miejsce na swojej karcie pamieci SD, aby rozpoczac pobieranie.
+POBIERZ
+ZAKONCZ
+NIE ZNALEZIONO POLACZENIA WIFI
+WIFI jest zalecane w celu szybszego pobierania. Wybierz "Tak", aby uruchomic WIFI i kontynuowac.
+3G niedostepne. 
+Siec 3G jest obecnie niedostepna. Polaczenie WIFI jest zalecane w celu szybszego pobierania. Wybierz opcje "Tak", aby skonfigurowac polaczenie WIFI i kontynuowac pobieranie lub spróbuj ponownie, gdy siec bedzie dostepna.
+POBIERANIE NIE POWIODLO SIE
+Zapisano postepy procesu.  Polacz sie ponownie, a nastepnie jeszcze raz uruchom aplikacje, aby kontynuowac pobieranie.
+POBIERANIE PRZERWANE
+PONÓW PRÓBE
+Spróbuj ponownie za [x, x-1...] sekund.
+WIFI
+TAK
+NIE
+POBIERANIE
+Trwa pobieranie...
+AKTUALIZACJE
+Sprawdzanie aktualizacji.
+POLACZ z 3G
+Czy na pewno chcesz pobierac przez 3G? Pobieranie moze potrwac do 2 godzin i jest usluga platna.
+AKTUALIZACJE DOSTEPNE
+%% wymaga aktualizacji %% MB.  Zaznacz "Pobierz", aby rozpoczac.
+URZADZENIE NIEOBSLUGIWANE
+"W czasie pobierania gry wystapil blad. Odwiedz strone www.eamobile.com/countrygate, aby wybrac swój kraj, a nastepnie kliknij link obslugi klienta".
+Nacisnij przycisk BACK, aby skonfigurowac WIFI.
+Nacisnij przycisk BACK, aby korzystac z 3G.
+Zaznacz "POLACZ z 3G", aby korzystac z 3G.
+Debug Test Title
